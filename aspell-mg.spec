@@ -1,5 +1,5 @@
 Summary:	Malagasy dictionary for aspell
-Summary(pl):	S≥ownik malgaski dla aspella
+Summary(pl.UTF-8):   S≈Çownik malgaski dla aspella
 Name:		aspell-mg
 Version:	0.03
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Malagasy dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik malgaski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik malgaski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-mg-%{version}-%{subv}
