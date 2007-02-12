@@ -1,5 +1,5 @@
 Summary:	Malagasy dictionary for aspell
-Summary(pl.UTF-8):   Słownik malgaski dla aspella
+Summary(pl.UTF-8):	Słownik malgaski dla aspella
 Name:		aspell-mg
 Version:	0.03
 %define	subv	0
