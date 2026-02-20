@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik malgaski dla aspella
 Name:		aspell-mg
 Version:	0.03
 %define	subv	0
-Release:	1
+Release:	2
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
